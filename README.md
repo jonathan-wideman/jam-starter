@@ -1,7 +1,7 @@
 # jam-starter
 
 ## Description
-A Unity starter project with customized settings intended for use in game jams
+A Unity starter project with customized settings intended for use in game jams.
 
 ## Installation
 After cloning the repository, the Unity project root folder is the "Jam Starter" folder found alongside this readme.
