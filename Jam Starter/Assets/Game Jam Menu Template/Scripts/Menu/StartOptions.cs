@@ -137,9 +137,12 @@ public class StartOptions : MonoBehaviour {
         }
 
         HideDelayed();
+        
+        //Reset the fade after the main menu panel has been hidden, so that the pause menu will later be visible
+        canvasGroupToFadeAlpha.alpha = startAlpha;
+
         Debug.Log("Coroutine done. Game started in same scene! Put your game starting stuff here.");
     }
-
 
     public void PlayNewMusic()
 	{
