@@ -7,7 +7,7 @@ A Unity starter project with customized settings intended for use in game jams.
 After cloning the repository, the Unity project root folder is the "Jam Starter" folder found alongside this readme.
 
 ## Notes
-It is recommended that you make use of the [Git Directory Cleaner for Unity3D](https://github.com/strich/git-dir-cleaner-for-unity3d) with this project.
+It is recommended that you make use of the [Git Directory Cleaner for Unity3D](https://github.com/strich/git-dir-cleaner-for-unity3d) with this project. Instructions for use are in its readme. Without it, you can end up in commit wars over ghost directories. You don't want that mess, trust me.
 
 ## Licensing
 The Unlicense found alongside this readme applies solely to works in this repository created by the author or explicit contributors.
